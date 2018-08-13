@@ -6,6 +6,7 @@ Eg. *Singleton, Factory Method and Prototype*
 
 ## Structural:
 This pattern involves in designing the objects to satisfy the projects contraints.It helps in identifying the relationship between objects.
+
 Eg. *Decorator, Facade, Proxy, Adapter, Composite*
 
 ## Behavioral:
