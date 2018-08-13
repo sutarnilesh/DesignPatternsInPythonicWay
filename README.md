@@ -10,3 +10,6 @@ This pattern involves in designing the objects to satisfy the projects contraint
 Eg. *Decorator, Facade, Proxy, Adapter, Composite*
 
 ## Behavioral:
+This pattern involves the communication between objects, how they interact and fulfil a given task, moving through a sequence(iterator) or interpreting a language.
+
+Eg. *Strategy, Iterator, Interpreter Chain of responsibility, State*
