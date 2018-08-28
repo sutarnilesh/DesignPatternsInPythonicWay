@@ -15,6 +15,7 @@ in a template or tree of inherited classes and this is very rigid, fixed design 
 A factory can create a new object out of any class. It avoids creating any new classes, and new properties can be
 assigned to base class using functions or if statements.
 
-### In fact: ### *a factory method returns(new) objects.*
+### In fact:
+*a factory method returns(new) objects.*
 
 For more reference [Factory Design Pattern](https://codeburst.io/what-is-a-factory-design-pattern-d3315ccc912b)
